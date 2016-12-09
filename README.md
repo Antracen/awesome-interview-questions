@@ -108,7 +108,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### C
 
-* [165 C interview questions](http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419)
 * [Basic C language technical frequently asked interview questions and answers It includes data structures, pointers interview questions and answers for experienced](http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html)
 * [C Programming Interview Questions and Answers for such topics as Bits and Bytes, Preprocessors, Functions, Strings, Language basics and etc](http://www.indiabix.com/technical/c/)
 * [C Programming Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C Programming](http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm)
